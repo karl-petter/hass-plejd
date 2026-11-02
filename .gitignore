@@ -14,3 +14,5 @@ custom_components/*/
 !.vscode/
 !.github/
 !parse_json.py
+!deploy-dev.sh
+!monitor_logs.py
